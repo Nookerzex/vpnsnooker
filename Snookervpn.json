@@ -1,4 +1,22 @@
+{
+   "files": [ 
 
+{
+         "name": "SG-DTAC--TEST-1",
+         "url": "https://raw.githubusercontent.com/Nookerzex/vpnsnooker/main/SG-DTAC-ALLPRO-01.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-TEST-2",
+         "url": "https://raw.githubusercontent.com/Nookerzex/vpnsnooker/main/SG-DTAC-ALLPRO-02.ovpn"
+      }
+
+
+   ],
+"message":"update: 30/03/2022 \nConfig version:1\nUpdate by: NOOKER \nWhat's new \nAdded TH FREE(1)server",
+   "title":"New update available now" ,
+   "version": 1
+}
  
  
 
