@@ -38,6 +38,37 @@
 
       {
 
+         "ชื่อ": "SG-Test2",
+
+         "url": "https://raw.githubusercontent.com/Nookerzex/vpnsnooker/main/SG-DTAC-ALLPRO-02.ovpn"
+
+      }
+
+   ],
+
+"message":" Support Simcard \n\n Dtac NoPro..\n True NoPro..\n Ais Play..\n\n Kguza Vpn Server Vip\n channel follow https://kguza.net \n ",
+
+   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
+
+   "version": 1.1
+
+}
+m{
+
+   "files": [   
+
+      
+
+   {
+
+         "name": "SG-Test1",
+
+         "url": "https://raw.githubusercontent.com/Nookerzex/vpnsnooker/main/SG-DTAC-ALLPRO-01.ovpn"
+
+      },
+
+      {
+
          "name": "SG-Test2",
 
          "url": "https://raw.githubusercontent.com/Nookerzex/vpnsnooker/main/SG-DTAC-ALLPRO-02.ovpn"
